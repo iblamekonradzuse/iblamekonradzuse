@@ -2,8 +2,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iblamekonradzuse&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iblamekonradzuse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=iblamekonradzuse&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iblamekonradzuse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -47,10 +47,12 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iblamekonradzuse&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"/> </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iblamekonradzuse&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="230" alt="activity-graph graph"/> </div>
   <br> 
-  
-<div> 
- <img src=https://i.imgur.com/9MtlMP7.png />
- <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/EndeavourOS/endeavouros1.svg /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos1.svg />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg /> 
+<div align="center">   
+ <img src=https://i.imgur.com/9MtlMP7.png height="400" />
+  </div> 
+    <div align="center"> 
+
+ <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/EndeavourOS/endeavouros1.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos1.svg height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg height="25" /> 
 </div>
