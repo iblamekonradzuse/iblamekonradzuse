@@ -53,6 +53,6 @@
  <img src=https://i.imgur.com/9MtlMP7.png height="400" />
   </div> 
     <div align="center"> 
-
+<br />
  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/EndeavourOS/endeavouros1.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos1.svg height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg height="25" /> 
 </div>
