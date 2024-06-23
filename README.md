@@ -7,30 +7,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iblamekonradzuse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="130" alt="languages graph"  />
   
 </div>
+<br/>
+  <div align="center"> 
+     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg
+ height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg
+ height="25" />   <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg
+ height="25" />  
+  </div>
+
+
 
 ###
 
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
-  <img width="8" />
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="35"/>
-
-</div>
 
 ###
 
@@ -56,10 +44,6 @@
   
   <div align="center"> 
 <br />
- <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/EndeavourOS/endeavouros1.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos1.svg height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg height="25" /> 
-</div>
-
-<br/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iblamekonradzuse&label=Profile%20views&color=3c3836&label=clicks&style=for-the-badge" alt="iblamekonradzuse" /> </p>
 
