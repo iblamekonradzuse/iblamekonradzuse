@@ -26,10 +26,6 @@
 
 ###
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iblamekonradzuse&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="230" alt="activity-graph graph"/> </div>
-  <br> 
 <div align="center">   
  <img src=https://i.imgur.com/9MtlMP7.png height="400" />
   </div> 
