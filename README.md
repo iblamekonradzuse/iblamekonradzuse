@@ -27,8 +27,8 @@
 ###
 
 <div align="center">   
- <img src=https://i.imgur.com/1SyPNov.jpeg height="200" />
-  <img src=https://i.imgur.com/ZCBL1kV.png height="200">
+ <img src=https://i.imgur.com/1SyPNov.jpeg height="250" />
+  <img src=https://i.imgur.com/ZCBL1kV.png height="250">
   </div> 
 <br/>
 
