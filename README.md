@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=iblamekonradzuse&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iblamekonradzuse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=true" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iblamekonradzuse&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=gruvbox&hide_border=true" height="130" alt="languages graph"  />
   
 </div>
 <br/>
@@ -27,8 +27,8 @@
 ###
 
 <div align="center">   
- <img src=https://i.imgur.com/KM8x32Z.jpeg height="250" />
-  <img src=https://i.imgur.com/o8Gkzrk.jpeg height="250">
+ <img src=https://i.imgur.com/uE0fW8L.jpeg height="250" />
+  <img src=https://i.imgur.com/QD27cR0.jpeg height="250">
   </div> 
 <br/>
 
