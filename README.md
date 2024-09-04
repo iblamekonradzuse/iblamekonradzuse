@@ -33,9 +33,10 @@
 <br/>
 
 <div align="center"> 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=800&size=25&pause=1000&color=665C54&center=true&vCenter=true&random=false&width=435&lines=CLICK+DOWN+THERE+!;TO+SEE+MY+LATEST+VIDEO!" alt="Typing SVG" /></a> 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1000&color=7A431AE5&center=true&vCenter=true&width=435&lines=latest+video%3A" alt="Typing SVG" /></a> 
+ 
   
-[![IMAGE lates youtube video](https://img.youtube.com/vi/N2NfB4sp1Zo/0.jpg)](https://www.youtube.com/watch?v=N2NfB4sp1Zo)
+[![IMAGE lates youtube video](https://img.youtube.com/vi/BBPHIpl1WaU/0.jpg)](https://www.youtube.com/watch?v=BBPHIpl1WaU)
 
 </div> 
   
