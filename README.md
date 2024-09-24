@@ -8,12 +8,6 @@
   
 </div>
 <br/>
-  <div align="center"> 
-     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg
- height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg
- height="25" />   <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg height="25" /> <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg height="25" />  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg
- height="25" />  
-  </div>
 
 
 
@@ -27,14 +21,11 @@
 ###
 
 <div align="center">   
- <img src=https://i.imgur.com/uE0fW8L.jpeg height="250" />
-  <img src=https://i.imgur.com/QD27cR0.jpeg height="250">
+ <img src=https://i.imgur.com/uE0fW8L.jpeg height="385" />
   </div> 
 <br/>
 
 <div align="center"> 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1000&color=7A431AE5&center=true&vCenter=true&width=435&lines=latest+video%3A" alt="Typing SVG" /></a> 
- 
   
 [![IMAGE lates youtube video](https://img.youtube.com/vi/BBPHIpl1WaU/0.jpg)](https://www.youtube.com/watch?v=BBPHIpl1WaU)
 
