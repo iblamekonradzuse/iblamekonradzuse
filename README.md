@@ -35,5 +35,6 @@
 </br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iblamekonradzuse&repo=habit_tracker&theme=rose_pine&hide_border=true&height=20)](https://github.com/iblamekonradzuse/habit_tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iblamekonradzuse&repo=fitness_tracker_rust&theme=rose_pine&hide_border=true&height=20)](https://github.com/iblamekonradzuse/fitness_tracker_rust)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iblamekonradzuse&repo=python_automations&theme=rose_pine&hide_border=true&height=20)](https://github.com/iblamekonradzuse/python_automations)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iblamekonradzuse&label=Profile%20views&color=3c3836&label=clicks&style=for-the-badge" alt="iblamekonradzuse" /> </p>
