@@ -2,12 +2,7 @@
 ###
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=iblamekonradzuse&locale=en&mode=daily&theme=rose-pine&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iblamekonradzuse&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=rose_pine&hide_border=true" height="130" alt="languages graph"  />
-  
-</div>
-<br/>
+
 
 
 
@@ -37,5 +32,12 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iblamekonradzuse&repo=fitness_tracker_rust&theme=rose_pine&hide_border=true&height=20)](https://github.com/iblamekonradzuse/fitness_tracker_rust)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iblamekonradzuse&repo=python_automations&theme=rose_pine&hide_border=true&height=20)](https://github.com/iblamekonradzuse/python_automations)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iblamekonradzuse&repo=study_tracker&theme=rose_pine&hide_border=true&height=20)](https://github.com/iblamekonradzuse/study_tracker)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iblamekonradzuse&locale=en&mode=daily&theme=rose-pine&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iblamekonradzuse&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=rose_pine&hide_border=true" height="130" alt="languages graph"  />
+  
+</div>
+<br/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iblamekonradzuse&label=Profile%20views&color=3c3836&label=clicks&style=for-the-badge" alt="iblamekonradzuse" /> </p>
